@@ -5,3 +5,9 @@
 .floatl {
   float: left;
 }
+
+iframe {
+  display: none;
+  width: 80vw;
+  height: 100vh;
+}
